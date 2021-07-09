@@ -1,0 +1,23 @@
+body {
+		text-align:center; 
+}
+
+div { 
+	height: 200px;
+    width: 200px;
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -200px;
+}
+
+#startWorkout { 
+	color:#483D8B; 
+}
+
+h2 {
+	border-style: dashed;
+	margin: 10px;
+	color:#008B8B; 
+}
